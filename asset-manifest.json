@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/myclone/static/css/main.79c3dc94.css",
+    "main.js": "/myclone/static/js/main.95d1ea7e.js",
+    "static/js/156.5cde8b20.chunk.js": "/myclone/static/js/156.5cde8b20.chunk.js",
+    "static/media/whatsapp.png": "/myclone/static/media/whatsapp.d27692ed58509ea8626a.png",
+    "static/media/logo.svg": "/myclone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/myclone/index.html",
+    "main.79c3dc94.css.map": "/myclone/static/css/main.79c3dc94.css.map",
+    "main.95d1ea7e.js.map": "/myclone/static/js/main.95d1ea7e.js.map",
+    "156.5cde8b20.chunk.js.map": "/myclone/static/js/156.5cde8b20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79c3dc94.css",
+    "static/js/main.95d1ea7e.js"
+  ]
+}
